@@ -1,23 +1,36 @@
+# 🤖 AI Chatbot UI
+
+This is a modern and responsive AI Chatbot interface built using **HTML, CSS, and JavaScript**.  
+It supports message sending, AI responses, emoji picker, image upload, and smooth UI animations.
 
 ---
 
-# ⭐ **Option 2 — Stylish & Modern (with Badges)**
-```md
-# ✨ AI Chatbot UI  
-![HTML](https://img.shields.io/badge/HTML-5-orange) 
-![CSS](https://img.shields.io/badge/CSS-3-blue) 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-Enabled-purple)
+## ✨ Features
 
-An elegant chatbot interface built with modern UI/UX elements and integrated with Google Gemini for AI responses.
+- 💬 Clean and responsive chat interface  
+- 🤖 AI-powered message responses  
+- 📎 Image upload support  
+- 😄 Emoji picker integration  
+- 🔄 Reset & toggle chatbot functionality  
+- 🎨 Smooth CSS animations  
+- 📱 Mobile-friendly interface  
 
-## 🔥 Highlights
-- ⚡ Fast & responsive UI  
-- 🎨 Smooth animations  
-- 🔤 Emoji picker integration  
-- 📤 Image upload support  
-- 🔄 Chat reset functionality  
+---
 
-## 🧩 Project Structure
+## 🛠️ Tech Stack
 
-NOTE : You have to paste your own *API key* in js file
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Google Gemini API**
+- **Material Symbols Icons**
+
+---
+
+## 📁 Project Structure
+
+
+
+
+
+NOTE : You have to paste your own **API key** in js file
