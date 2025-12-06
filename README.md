@@ -20,4 +20,4 @@ An elegant chatbot interface built with modern UI/UX elements and integrated wit
 
 ## 🧩 Project Structure
 
-NOTE : You have to paste your own *API key* in html file
+NOTE : You have to paste your own *API key* in js file
